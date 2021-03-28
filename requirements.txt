@@ -1,0 +1,6 @@
+discord.py==1.6.0
+gspread
+oauth2client
+asyncio
+pymongo
+dnspython

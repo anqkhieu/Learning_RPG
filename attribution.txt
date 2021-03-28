@@ -1,0 +1,18 @@
+Designed and programmed in Python by Alisa Khieu for HooHacks 2021.
+MongoDB for backend, Heroku for hosting.
+
+--
+
+All images and graphics used are credited below. 
+
+Title: E-Learning Vector Illustration
+Author: Orangereebok
+Link: https://www.vecteezy.com/vector-art/180362-e-learning-vector-illustration
+License: Free License, Attribution Required to <a href="https://www.vecteezy.com/free-vector/web">Web Vectors by Vecteezy</a>
+Usage in Project: Discord Bot, Profile Picture
+
+Title: Kyrise's Free 16x16 RPG Icon Pack
+Author: Kyrise
+Link: https://www.ascensiongamedev.com/topic/2905-free-16x16-rpg-icon-pack/
+License: Creative Commons Attribution 4.0 International (CC BY 4.0)
+Usage in Project: Discord Bot RPG Game Icons
